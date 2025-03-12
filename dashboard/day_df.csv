@@ -1,0 +1,732 @@
+id,date,season,year,month,holiday,weekday,workingday,weather,atemp,casual,registered,count
+1,2011-01-01,springer,2011,Januari,not holiday,saturday,restday,mist & cloudy,0.363625,331,654,985
+2,2011-01-02,springer,2011,Januari,not holiday,sunday,restday,mist & cloudy,0.353739,131,670,801
+3,2011-01-03,springer,2011,Januari,not holiday,monday,workday,clear & partly cloudy,0.189405,120,1229,1349
+4,2011-01-04,springer,2011,Januari,not holiday,tuesday,workday,clear & partly cloudy,0.212122,108,1454,1562
+5,2011-01-05,springer,2011,Januari,not holiday,wednesday,workday,clear & partly cloudy,0.22927,82,1518,1600
+6,2011-01-06,springer,2011,Januari,not holiday,thursday,workday,clear & partly cloudy,0.233209,88,1518,1606
+7,2011-01-07,springer,2011,Januari,not holiday,friday,workday,mist & cloudy,0.208839,148,1362,1510
+8,2011-01-08,springer,2011,Januari,not holiday,saturday,restday,mist & cloudy,0.162254,68,891,959
+9,2011-01-09,springer,2011,Januari,not holiday,sunday,restday,clear & partly cloudy,0.116175,54,768,822
+10,2011-01-10,springer,2011,Januari,not holiday,monday,workday,clear & partly cloudy,0.150888,41,1280,1321
+11,2011-01-11,springer,2011,Januari,not holiday,tuesday,workday,mist & cloudy,0.191464,43,1220,1263
+12,2011-01-12,springer,2011,Januari,not holiday,wednesday,workday,clear & partly cloudy,0.160473,25,1137,1162
+13,2011-01-13,springer,2011,Januari,not holiday,thursday,workday,clear & partly cloudy,0.150883,38,1368,1406
+14,2011-01-14,springer,2011,Januari,not holiday,friday,workday,clear & partly cloudy,0.188413,54,1367,1421
+15,2011-01-15,springer,2011,Januari,not holiday,saturday,restday,mist & cloudy,0.248112,222,1026,1248
+16,2011-01-16,springer,2011,Januari,not holiday,sunday,restday,clear & partly cloudy,0.234217,251,953,1204
+17,2011-01-17,springer,2011,Januari,holiday,monday,restday,mist & cloudy,0.176771,117,883,1000
+18,2011-01-18,springer,2011,Januari,not holiday,tuesday,workday,mist & cloudy,0.232333,9,674,683
+19,2011-01-19,springer,2011,Januari,not holiday,wednesday,workday,mist & cloudy,0.298422,78,1572,1650
+20,2011-01-20,springer,2011,Januari,not holiday,thursday,workday,mist & cloudy,0.25505,83,1844,1927
+21,2011-01-21,springer,2011,Januari,not holiday,friday,workday,clear & partly cloudy,0.157833,75,1468,1543
+22,2011-01-22,springer,2011,Januari,not holiday,saturday,restday,clear & partly cloudy,0.0790696,93,888,981
+23,2011-01-23,springer,2011,Januari,not holiday,sunday,restday,clear & partly cloudy,0.0988391,150,836,986
+24,2011-01-24,springer,2011,Januari,not holiday,monday,workday,clear & partly cloudy,0.11793,86,1330,1416
+25,2011-01-25,springer,2011,Januari,not holiday,tuesday,workday,mist & cloudy,0.234526,186,1799,1985
+26,2011-01-26,springer,2011,Januari,not holiday,wednesday,workday,light snow & light rain,0.2036,34,472,506
+27,2011-01-27,springer,2011,Januari,not holiday,thursday,workday,clear & partly cloudy,0.2197,15,416,431
+28,2011-01-28,springer,2011,Januari,not holiday,friday,workday,mist & cloudy,0.223317,38,1129,1167
+29,2011-01-29,springer,2011,Januari,not holiday,saturday,restday,clear & partly cloudy,0.212126,123,975,1098
+30,2011-01-30,springer,2011,Januari,not holiday,sunday,restday,clear & partly cloudy,0.250322,140,956,1096
+31,2011-01-31,springer,2011,Januari,not holiday,monday,workday,mist & cloudy,0.18625,42,1459,1501
+32,2011-02-01,springer,2011,Februari,not holiday,tuesday,workday,mist & cloudy,0.23453,47,1313,1360
+33,2011-02-02,springer,2011,Februari,not holiday,wednesday,workday,mist & cloudy,0.254417,72,1454,1526
+34,2011-02-03,springer,2011,Februari,not holiday,thursday,workday,clear & partly cloudy,0.177878,61,1489,1550
+35,2011-02-04,springer,2011,Februari,not holiday,friday,workday,mist & cloudy,0.228587,88,1620,1708
+36,2011-02-05,springer,2011,Februari,not holiday,saturday,restday,mist & cloudy,0.243058,100,905,1005
+37,2011-02-06,springer,2011,Februari,not holiday,sunday,restday,clear & partly cloudy,0.291671,354,1269,1623
+38,2011-02-07,springer,2011,Februari,not holiday,monday,workday,clear & partly cloudy,0.303658,120,1592,1712
+39,2011-02-08,springer,2011,Februari,not holiday,tuesday,workday,clear & partly cloudy,0.198246,64,1466,1530
+40,2011-02-09,springer,2011,Februari,not holiday,wednesday,workday,mist & cloudy,0.144283,53,1552,1605
+41,2011-02-10,springer,2011,Februari,not holiday,thursday,workday,clear & partly cloudy,0.149548,47,1491,1538
+42,2011-02-11,springer,2011,Februari,not holiday,friday,workday,clear & partly cloudy,0.213509,149,1597,1746
+43,2011-02-12,springer,2011,Februari,not holiday,saturday,restday,clear & partly cloudy,0.232954,288,1184,1472
+44,2011-02-13,springer,2011,Februari,not holiday,sunday,restday,clear & partly cloudy,0.324113,397,1192,1589
+45,2011-02-14,springer,2011,Februari,not holiday,monday,workday,clear & partly cloudy,0.39835,208,1705,1913
+46,2011-02-15,springer,2011,Februari,not holiday,tuesday,workday,clear & partly cloudy,0.254274,140,1675,1815
+47,2011-02-16,springer,2011,Februari,not holiday,wednesday,workday,clear & partly cloudy,0.3162,218,1897,2115
+48,2011-02-17,springer,2011,Februari,not holiday,thursday,workday,clear & partly cloudy,0.428658,259,2216,2475
+49,2011-02-18,springer,2011,Februari,not holiday,friday,workday,clear & partly cloudy,0.511983,579,2348,2927
+50,2011-02-19,springer,2011,Februari,not holiday,saturday,restday,clear & partly cloudy,0.391404,532,1103,1635
+51,2011-02-20,springer,2011,Februari,not holiday,sunday,restday,clear & partly cloudy,0.27733,639,1173,1812
+52,2011-02-21,springer,2011,Februari,holiday,monday,restday,mist & cloudy,0.284075,195,912,1107
+53,2011-02-22,springer,2011,Februari,not holiday,tuesday,workday,clear & partly cloudy,0.186033,74,1376,1450
+54,2011-02-23,springer,2011,Februari,not holiday,wednesday,workday,clear & partly cloudy,0.245717,139,1778,1917
+55,2011-02-24,springer,2011,Februari,not holiday,thursday,workday,mist & cloudy,0.289191,100,1707,1807
+56,2011-02-25,springer,2011,Februari,not holiday,friday,workday,mist & cloudy,0.350461,120,1341,1461
+57,2011-02-26,springer,2011,Februari,not holiday,saturday,restday,clear & partly cloudy,0.282192,424,1545,1969
+58,2011-02-27,springer,2011,Februari,not holiday,sunday,restday,clear & partly cloudy,0.351109,694,1708,2402
+59,2011-02-28,springer,2011,Februari,not holiday,monday,workday,mist & cloudy,0.400118,81,1365,1446
+60,2011-03-01,springer,2011,Maret,not holiday,tuesday,workday,clear & partly cloudy,0.263879,137,1714,1851
+61,2011-03-02,springer,2011,Maret,not holiday,wednesday,workday,clear & partly cloudy,0.320071,231,1903,2134
+62,2011-03-03,springer,2011,Maret,not holiday,thursday,workday,clear & partly cloudy,0.200133,123,1562,1685
+63,2011-03-04,springer,2011,Maret,not holiday,friday,workday,mist & cloudy,0.255679,214,1730,1944
+64,2011-03-05,springer,2011,Maret,not holiday,saturday,restday,mist & cloudy,0.378779,640,1437,2077
+65,2011-03-06,springer,2011,Maret,not holiday,sunday,restday,mist & cloudy,0.366252,114,491,605
+66,2011-03-07,springer,2011,Maret,not holiday,monday,workday,clear & partly cloudy,0.238461,244,1628,1872
+67,2011-03-08,springer,2011,Maret,not holiday,tuesday,workday,clear & partly cloudy,0.3024,316,1817,2133
+68,2011-03-09,springer,2011,Maret,not holiday,wednesday,workday,mist & cloudy,0.286608,191,1700,1891
+69,2011-03-10,springer,2011,Maret,not holiday,thursday,workday,light snow & light rain,0.385668,46,577,623
+70,2011-03-11,springer,2011,Maret,not holiday,friday,workday,mist & cloudy,0.305,247,1730,1977
+71,2011-03-12,springer,2011,Maret,not holiday,saturday,restday,clear & partly cloudy,0.32575,724,1408,2132
+72,2011-03-13,springer,2011,Maret,not holiday,sunday,restday,clear & partly cloudy,0.380091,982,1435,2417
+73,2011-03-14,springer,2011,Maret,not holiday,monday,workday,clear & partly cloudy,0.332,359,1687,2046
+74,2011-03-15,springer,2011,Maret,not holiday,tuesday,workday,mist & cloudy,0.318178,289,1767,2056
+75,2011-03-16,springer,2011,Maret,not holiday,wednesday,workday,mist & cloudy,0.36693,321,1871,2192
+76,2011-03-17,springer,2011,Maret,not holiday,thursday,workday,clear & partly cloudy,0.410333,424,2320,2744
+77,2011-03-18,springer,2011,Maret,not holiday,friday,workday,clear & partly cloudy,0.527009,884,2355,3239
+78,2011-03-19,springer,2011,Maret,not holiday,saturday,restday,clear & partly cloudy,0.466525,1424,1693,3117
+79,2011-03-20,springer,2011,Maret,not holiday,sunday,restday,clear & partly cloudy,0.32575,1047,1424,2471
+80,2011-03-21,summer,2011,Maret,not holiday,monday,workday,mist & cloudy,0.409735,401,1676,2077
+81,2011-03-22,summer,2011,Maret,not holiday,tuesday,workday,clear & partly cloudy,0.440642,460,2243,2703
+82,2011-03-23,summer,2011,Maret,not holiday,wednesday,workday,mist & cloudy,0.337939,203,1918,2121
+83,2011-03-24,summer,2011,Maret,not holiday,thursday,workday,mist & cloudy,0.270833,166,1699,1865
+84,2011-03-25,summer,2011,Maret,not holiday,friday,workday,clear & partly cloudy,0.256312,300,1910,2210
+85,2011-03-26,summer,2011,Maret,not holiday,saturday,restday,clear & partly cloudy,0.257571,981,1515,2496
+86,2011-03-27,summer,2011,Maret,not holiday,sunday,restday,mist & cloudy,0.250339,472,1221,1693
+87,2011-03-28,summer,2011,Maret,not holiday,monday,workday,clear & partly cloudy,0.257574,222,1806,2028
+88,2011-03-29,summer,2011,Maret,not holiday,tuesday,workday,clear & partly cloudy,0.292908,317,2108,2425
+89,2011-03-30,summer,2011,Maret,not holiday,wednesday,workday,mist & cloudy,0.29735,168,1368,1536
+90,2011-03-31,summer,2011,Maret,not holiday,thursday,workday,light snow & light rain,0.257575,179,1506,1685
+91,2011-04-01,summer,2011,April,not holiday,friday,workday,mist & cloudy,0.283454,307,1920,2227
+92,2011-04-02,summer,2011,April,not holiday,saturday,restday,mist & cloudy,0.315637,898,1354,2252
+93,2011-04-03,summer,2011,April,not holiday,sunday,restday,clear & partly cloudy,0.378767,1651,1598,3249
+94,2011-04-04,summer,2011,April,not holiday,monday,workday,clear & partly cloudy,0.542929,734,2381,3115
+95,2011-04-05,summer,2011,April,not holiday,tuesday,workday,mist & cloudy,0.39835,167,1628,1795
+96,2011-04-06,summer,2011,April,not holiday,wednesday,workday,clear & partly cloudy,0.387608,413,2395,2808
+97,2011-04-07,summer,2011,April,not holiday,thursday,workday,clear & partly cloudy,0.433696,571,2570,3141
+98,2011-04-08,summer,2011,April,not holiday,friday,workday,mist & cloudy,0.324479,172,1299,1471
+99,2011-04-09,summer,2011,April,not holiday,saturday,restday,mist & cloudy,0.341529,879,1576,2455
+100,2011-04-10,summer,2011,April,not holiday,sunday,restday,mist & cloudy,0.426737,1188,1707,2895
+101,2011-04-11,summer,2011,April,not holiday,monday,workday,mist & cloudy,0.565217,855,2493,3348
+102,2011-04-12,summer,2011,April,not holiday,tuesday,workday,mist & cloudy,0.493054,257,1777,2034
+103,2011-04-13,summer,2011,April,not holiday,wednesday,workday,mist & cloudy,0.417283,209,1953,2162
+104,2011-04-14,summer,2011,April,not holiday,thursday,workday,clear & partly cloudy,0.462742,529,2738,3267
+105,2011-04-15,summer,2011,April,holiday,friday,restday,clear & partly cloudy,0.441913,642,2484,3126
+106,2011-04-16,summer,2011,April,not holiday,saturday,restday,light snow & light rain,0.425492,121,674,795
+107,2011-04-17,summer,2011,April,not holiday,sunday,restday,clear & partly cloudy,0.445696,1558,2186,3744
+108,2011-04-18,summer,2011,April,not holiday,monday,workday,clear & partly cloudy,0.503146,669,2760,3429
+109,2011-04-19,summer,2011,April,not holiday,tuesday,workday,mist & cloudy,0.489258,409,2795,3204
+110,2011-04-20,summer,2011,April,not holiday,wednesday,workday,clear & partly cloudy,0.564392,613,3331,3944
+111,2011-04-21,summer,2011,April,not holiday,thursday,workday,clear & partly cloudy,0.453892,745,3444,4189
+112,2011-04-22,summer,2011,April,not holiday,friday,workday,mist & cloudy,0.321954,177,1506,1683
+113,2011-04-23,summer,2011,April,not holiday,saturday,restday,mist & cloudy,0.450121,1462,2574,4036
+114,2011-04-24,summer,2011,April,not holiday,sunday,restday,mist & cloudy,0.551763,1710,2481,4191
+115,2011-04-25,summer,2011,April,not holiday,monday,workday,clear & partly cloudy,0.5745,773,3300,4073
+116,2011-04-26,summer,2011,April,not holiday,tuesday,workday,clear & partly cloudy,0.594083,678,3722,4400
+117,2011-04-27,summer,2011,April,not holiday,wednesday,workday,mist & cloudy,0.575142,547,3325,3872
+118,2011-04-28,summer,2011,April,not holiday,thursday,workday,mist & cloudy,0.578929,569,3489,4058
+119,2011-04-29,summer,2011,April,not holiday,friday,workday,clear & partly cloudy,0.497463,878,3717,4595
+120,2011-04-30,summer,2011,April,not holiday,saturday,restday,clear & partly cloudy,0.464021,1965,3347,5312
+121,2011-05-01,summer,2011,Mai,not holiday,sunday,restday,mist & cloudy,0.448204,1138,2213,3351
+122,2011-05-02,summer,2011,Mai,not holiday,monday,workday,mist & cloudy,0.532833,847,3554,4401
+123,2011-05-03,summer,2011,Mai,not holiday,tuesday,workday,mist & cloudy,0.582079,603,3848,4451
+124,2011-05-04,summer,2011,Mai,not holiday,wednesday,workday,mist & cloudy,0.40465,255,2378,2633
+125,2011-05-05,summer,2011,Mai,not holiday,thursday,workday,clear & partly cloudy,0.441917,614,3819,4433
+126,2011-05-06,summer,2011,Mai,not holiday,friday,workday,clear & partly cloudy,0.474117,894,3714,4608
+127,2011-05-07,summer,2011,Mai,not holiday,saturday,restday,clear & partly cloudy,0.512621,1612,3102,4714
+128,2011-05-08,summer,2011,Mai,not holiday,sunday,restday,clear & partly cloudy,0.518933,1401,2932,4333
+129,2011-05-09,summer,2011,Mai,not holiday,monday,workday,clear & partly cloudy,0.525246,664,3698,4362
+130,2011-05-10,summer,2011,Mai,not holiday,tuesday,workday,clear & partly cloudy,0.522721,694,4109,4803
+131,2011-05-11,summer,2011,Mai,not holiday,wednesday,workday,clear & partly cloudy,0.5284,550,3632,4182
+132,2011-05-12,summer,2011,Mai,not holiday,thursday,workday,clear & partly cloudy,0.523363,695,4169,4864
+133,2011-05-13,summer,2011,Mai,not holiday,friday,workday,mist & cloudy,0.4943,692,3413,4105
+134,2011-05-14,summer,2011,Mai,not holiday,saturday,restday,mist & cloudy,0.500629,902,2507,3409
+135,2011-05-15,summer,2011,Mai,not holiday,sunday,restday,mist & cloudy,0.536,1582,2971,4553
+136,2011-05-16,summer,2011,Mai,not holiday,monday,workday,clear & partly cloudy,0.550512,773,3185,3958
+137,2011-05-17,summer,2011,Mai,not holiday,tuesday,workday,mist & cloudy,0.538529,678,3445,4123
+138,2011-05-18,summer,2011,Mai,not holiday,wednesday,workday,mist & cloudy,0.527158,536,3319,3855
+139,2011-05-19,summer,2011,Mai,not holiday,thursday,workday,mist & cloudy,0.510742,735,3840,4575
+140,2011-05-20,summer,2011,Mai,not holiday,friday,workday,clear & partly cloudy,0.529042,909,4008,4917
+141,2011-05-21,summer,2011,Mai,not holiday,saturday,restday,clear & partly cloudy,0.571975,2258,3547,5805
+142,2011-05-22,summer,2011,Mai,not holiday,sunday,restday,clear & partly cloudy,0.5745,1576,3084,4660
+143,2011-05-23,summer,2011,Mai,not holiday,monday,workday,mist & cloudy,0.590296,836,3438,4274
+144,2011-05-24,summer,2011,Mai,not holiday,tuesday,workday,mist & cloudy,0.604813,659,3833,4492
+145,2011-05-25,summer,2011,Mai,not holiday,wednesday,workday,clear & partly cloudy,0.615542,740,4238,4978
+146,2011-05-26,summer,2011,Mai,not holiday,thursday,workday,clear & partly cloudy,0.654688,758,3919,4677
+147,2011-05-27,summer,2011,Mai,not holiday,friday,workday,clear & partly cloudy,0.637008,871,3808,4679
+148,2011-05-28,summer,2011,Mai,not holiday,saturday,restday,clear & partly cloudy,0.612379,2001,2757,4758
+149,2011-05-29,summer,2011,Mai,not holiday,sunday,restday,clear & partly cloudy,0.61555,2355,2433,4788
+150,2011-05-30,summer,2011,Mai,holiday,monday,restday,clear & partly cloudy,0.671092,1549,2549,4098
+151,2011-05-31,summer,2011,Mai,not holiday,tuesday,workday,clear & partly cloudy,0.725383,673,3309,3982
+152,2011-06-01,summer,2011,Juni,not holiday,wednesday,workday,mist & cloudy,0.720967,513,3461,3974
+153,2011-06-02,summer,2011,Juni,not holiday,thursday,workday,clear & partly cloudy,0.643942,736,4232,4968
+154,2011-06-03,summer,2011,Juni,not holiday,friday,workday,clear & partly cloudy,0.587133,898,4414,5312
+155,2011-06-04,summer,2011,Juni,not holiday,saturday,restday,clear & partly cloudy,0.594696,1869,3473,5342
+156,2011-06-05,summer,2011,Juni,not holiday,sunday,restday,mist & cloudy,0.616804,1685,3221,4906
+157,2011-06-06,summer,2011,Juni,not holiday,monday,workday,clear & partly cloudy,0.621858,673,3875,4548
+158,2011-06-07,summer,2011,Juni,not holiday,tuesday,workday,clear & partly cloudy,0.65595,763,4070,4833
+159,2011-06-08,summer,2011,Juni,not holiday,wednesday,workday,clear & partly cloudy,0.727279,676,3725,4401
+160,2011-06-09,summer,2011,Juni,not holiday,thursday,workday,mist & cloudy,0.757579,563,3352,3915
+161,2011-06-10,summer,2011,Juni,not holiday,friday,workday,clear & partly cloudy,0.703292,815,3771,4586
+162,2011-06-11,summer,2011,Juni,not holiday,saturday,restday,clear & partly cloudy,0.678038,1729,3237,4966
+163,2011-06-12,summer,2011,Juni,not holiday,sunday,restday,clear & partly cloudy,0.643325,1467,2993,4460
+164,2011-06-13,summer,2011,Juni,not holiday,monday,workday,clear & partly cloudy,0.601654,863,4157,5020
+165,2011-06-14,summer,2011,Juni,not holiday,tuesday,workday,clear & partly cloudy,0.591546,727,4164,4891
+166,2011-06-15,summer,2011,Juni,not holiday,wednesday,workday,clear & partly cloudy,0.587754,769,4411,5180
+167,2011-06-16,summer,2011,Juni,not holiday,thursday,workday,mist & cloudy,0.595346,545,3222,3767
+168,2011-06-17,summer,2011,Juni,not holiday,friday,workday,clear & partly cloudy,0.600383,863,3981,4844
+169,2011-06-18,summer,2011,Juni,not holiday,saturday,restday,clear & partly cloudy,0.643954,1807,3312,5119
+170,2011-06-19,summer,2011,Juni,not holiday,sunday,restday,mist & cloudy,0.645846,1639,3105,4744
+171,2011-06-20,summer,2011,Juni,not holiday,monday,workday,mist & cloudy,0.595346,699,3311,4010
+172,2011-06-21,fall,2011,Juni,not holiday,tuesday,workday,mist & cloudy,0.637646,774,4061,4835
+173,2011-06-22,fall,2011,Juni,not holiday,wednesday,workday,clear & partly cloudy,0.693829,661,3846,4507
+174,2011-06-23,fall,2011,Juni,not holiday,thursday,workday,mist & cloudy,0.693833,746,4044,4790
+175,2011-06-24,fall,2011,Juni,not holiday,friday,workday,clear & partly cloudy,0.656583,969,4022,4991
+176,2011-06-25,fall,2011,Juni,not holiday,saturday,restday,clear & partly cloudy,0.643313,1782,3420,5202
+177,2011-06-26,fall,2011,Juni,not holiday,sunday,restday,clear & partly cloudy,0.637629,1920,3385,5305
+178,2011-06-27,fall,2011,Juni,not holiday,monday,workday,mist & cloudy,0.637004,854,3854,4708
+179,2011-06-28,fall,2011,Juni,not holiday,tuesday,workday,clear & partly cloudy,0.692558,732,3916,4648
+180,2011-06-29,fall,2011,Juni,not holiday,wednesday,workday,clear & partly cloudy,0.654688,848,4377,5225
+181,2011-06-30,fall,2011,Juni,not holiday,thursday,workday,clear & partly cloudy,0.637008,1027,4488,5515
+182,2011-07-01,fall,2011,Juli,not holiday,friday,workday,clear & partly cloudy,0.652162,1246,4116,5362
+183,2011-07-02,fall,2011,Juli,not holiday,saturday,restday,clear & partly cloudy,0.667308,2204,2915,5119
+184,2011-07-03,fall,2011,Juli,not holiday,sunday,restday,mist & cloudy,0.668575,2282,2367,4649
+185,2011-07-04,fall,2011,Juli,holiday,monday,restday,mist & cloudy,0.665417,3065,2978,6043
+186,2011-07-05,fall,2011,Juli,not holiday,tuesday,workday,clear & partly cloudy,0.696338,1031,3634,4665
+187,2011-07-06,fall,2011,Juli,not holiday,wednesday,workday,clear & partly cloudy,0.685633,784,3845,4629
+188,2011-07-07,fall,2011,Juli,not holiday,thursday,workday,clear & partly cloudy,0.686871,754,3838,4592
+189,2011-07-08,fall,2011,Juli,not holiday,friday,workday,mist & cloudy,0.670483,692,3348,4040
+190,2011-07-09,fall,2011,Juli,not holiday,saturday,restday,clear & partly cloudy,0.664158,1988,3348,5336
+191,2011-07-10,fall,2011,Juli,not holiday,sunday,restday,clear & partly cloudy,0.690025,1743,3138,4881
+192,2011-07-11,fall,2011,Juli,not holiday,monday,workday,clear & partly cloudy,0.729804,723,3363,4086
+193,2011-07-12,fall,2011,Juli,not holiday,tuesday,workday,clear & partly cloudy,0.739275,662,3596,4258
+194,2011-07-13,fall,2011,Juli,not holiday,wednesday,workday,clear & partly cloudy,0.689404,748,3594,4342
+195,2011-07-14,fall,2011,Juli,not holiday,thursday,workday,clear & partly cloudy,0.635104,888,4196,5084
+196,2011-07-15,fall,2011,Juli,not holiday,friday,workday,clear & partly cloudy,0.624371,1318,4220,5538
+197,2011-07-16,fall,2011,Juli,not holiday,saturday,restday,clear & partly cloudy,0.638263,2418,3505,5923
+198,2011-07-17,fall,2011,Juli,not holiday,sunday,restday,clear & partly cloudy,0.669833,2006,3296,5302
+199,2011-07-18,fall,2011,Juli,not holiday,monday,workday,clear & partly cloudy,0.703925,841,3617,4458
+200,2011-07-19,fall,2011,Juli,not holiday,tuesday,workday,clear & partly cloudy,0.747479,752,3789,4541
+201,2011-07-20,fall,2011,Juli,not holiday,wednesday,workday,clear & partly cloudy,0.74685,644,3688,4332
+202,2011-07-21,fall,2011,Juli,not holiday,thursday,workday,mist & cloudy,0.826371,632,3152,3784
+203,2011-07-22,fall,2011,Juli,not holiday,friday,workday,clear & partly cloudy,0.840896,562,2825,3387
+204,2011-07-23,fall,2011,Juli,not holiday,saturday,restday,clear & partly cloudy,0.804287,987,2298,3285
+205,2011-07-24,fall,2011,Juli,not holiday,sunday,restday,clear & partly cloudy,0.794829,1050,2556,3606
+206,2011-07-25,fall,2011,Juli,not holiday,monday,workday,clear & partly cloudy,0.720958,568,3272,3840
+207,2011-07-26,fall,2011,Juli,not holiday,tuesday,workday,clear & partly cloudy,0.696979,750,3840,4590
+208,2011-07-27,fall,2011,Juli,not holiday,wednesday,workday,clear & partly cloudy,0.690667,755,3901,4656
+209,2011-07-28,fall,2011,Juli,not holiday,thursday,workday,clear & partly cloudy,0.7399,606,3784,4390
+210,2011-07-29,fall,2011,Juli,not holiday,friday,workday,clear & partly cloudy,0.785967,670,3176,3846
+211,2011-07-30,fall,2011,Juli,not holiday,saturday,restday,clear & partly cloudy,0.728537,1559,2916,4475
+212,2011-07-31,fall,2011,Juli,not holiday,sunday,restday,clear & partly cloudy,0.729796,1524,2778,4302
+213,2011-08-01,fall,2011,Augustus,not holiday,monday,workday,clear & partly cloudy,0.703292,729,3537,4266
+214,2011-08-02,fall,2011,Augustus,not holiday,tuesday,workday,clear & partly cloudy,0.707071,801,4044,4845
+215,2011-08-03,fall,2011,Augustus,not holiday,wednesday,workday,mist & cloudy,0.679937,467,3107,3574
+216,2011-08-04,fall,2011,Augustus,not holiday,thursday,workday,mist & cloudy,0.664788,799,3777,4576
+217,2011-08-05,fall,2011,Augustus,not holiday,friday,workday,clear & partly cloudy,0.656567,1023,3843,4866
+218,2011-08-06,fall,2011,Augustus,not holiday,saturday,restday,mist & cloudy,0.676154,1521,2773,4294
+219,2011-08-07,fall,2011,Augustus,not holiday,sunday,restday,clear & partly cloudy,0.715292,1298,2487,3785
+220,2011-08-08,fall,2011,Augustus,not holiday,monday,workday,clear & partly cloudy,0.703283,846,3480,4326
+221,2011-08-09,fall,2011,Augustus,not holiday,tuesday,workday,clear & partly cloudy,0.724121,907,3695,4602
+222,2011-08-10,fall,2011,Augustus,not holiday,wednesday,workday,clear & partly cloudy,0.684983,884,3896,4780
+223,2011-08-11,fall,2011,Augustus,not holiday,thursday,workday,clear & partly cloudy,0.651521,812,3980,4792
+224,2011-08-12,fall,2011,Augustus,not holiday,friday,workday,clear & partly cloudy,0.654042,1051,3854,4905
+225,2011-08-13,fall,2011,Augustus,not holiday,saturday,restday,mist & cloudy,0.645858,1504,2646,4150
+226,2011-08-14,fall,2011,Augustus,not holiday,sunday,restday,mist & cloudy,0.624388,1338,2482,3820
+227,2011-08-15,fall,2011,Augustus,not holiday,monday,workday,clear & partly cloudy,0.616167,775,3563,4338
+228,2011-08-16,fall,2011,Augustus,not holiday,tuesday,workday,clear & partly cloudy,0.645837,721,4004,4725
+229,2011-08-17,fall,2011,Augustus,not holiday,wednesday,workday,clear & partly cloudy,0.666671,668,4026,4694
+230,2011-08-18,fall,2011,Augustus,not holiday,thursday,workday,clear & partly cloudy,0.662258,639,3166,3805
+231,2011-08-19,fall,2011,Augustus,not holiday,friday,workday,mist & cloudy,0.633221,797,3356,4153
+232,2011-08-20,fall,2011,Augustus,not holiday,saturday,restday,clear & partly cloudy,0.648996,1914,3277,5191
+233,2011-08-21,fall,2011,Augustus,not holiday,sunday,restday,clear & partly cloudy,0.675525,1249,2624,3873
+234,2011-08-22,fall,2011,Augustus,not holiday,monday,workday,clear & partly cloudy,0.638254,833,3925,4758
+235,2011-08-23,fall,2011,Augustus,not holiday,tuesday,workday,clear & partly cloudy,0.606067,1281,4614,5895
+236,2011-08-24,fall,2011,Augustus,not holiday,wednesday,workday,clear & partly cloudy,0.630692,949,4181,5130
+237,2011-08-25,fall,2011,Augustus,not holiday,thursday,workday,mist & cloudy,0.645854,435,3107,3542
+238,2011-08-26,fall,2011,Augustus,not holiday,friday,workday,clear & partly cloudy,0.659733,768,3893,4661
+239,2011-08-27,fall,2011,Augustus,not holiday,saturday,restday,mist & cloudy,0.635556,226,889,1115
+240,2011-08-28,fall,2011,Augustus,not holiday,sunday,restday,clear & partly cloudy,0.647959,1415,2919,4334
+241,2011-08-29,fall,2011,Augustus,not holiday,monday,workday,clear & partly cloudy,0.607958,729,3905,4634
+242,2011-08-30,fall,2011,Augustus,not holiday,tuesday,workday,clear & partly cloudy,0.594704,775,4429,5204
+243,2011-08-31,fall,2011,Augustus,not holiday,wednesday,workday,clear & partly cloudy,0.611121,688,4370,5058
+244,2011-09-01,fall,2011,September,not holiday,thursday,workday,clear & partly cloudy,0.614921,783,4332,5115
+245,2011-09-02,fall,2011,September,not holiday,friday,workday,mist & cloudy,0.604808,875,3852,4727
+246,2011-09-03,fall,2011,September,not holiday,saturday,restday,clear & partly cloudy,0.633213,1935,2549,4484
+247,2011-09-04,fall,2011,September,not holiday,sunday,restday,clear & partly cloudy,0.665429,2521,2419,4940
+248,2011-09-05,fall,2011,September,holiday,monday,restday,mist & cloudy,0.625646,1236,2115,3351
+249,2011-09-06,fall,2011,September,not holiday,tuesday,workday,light snow & light rain,0.5152,204,2506,2710
+250,2011-09-07,fall,2011,September,not holiday,wednesday,workday,light snow & light rain,0.544229,118,1878,1996
+251,2011-09-08,fall,2011,September,not holiday,thursday,workday,light snow & light rain,0.555361,153,1689,1842
+252,2011-09-09,fall,2011,September,not holiday,friday,workday,mist & cloudy,0.578946,417,3127,3544
+253,2011-09-10,fall,2011,September,not holiday,saturday,restday,clear & partly cloudy,0.607962,1750,3595,5345
+254,2011-09-11,fall,2011,September,not holiday,sunday,restday,clear & partly cloudy,0.609229,1633,3413,5046
+255,2011-09-12,fall,2011,September,not holiday,monday,workday,clear & partly cloudy,0.60213,690,4023,4713
+256,2011-09-13,fall,2011,September,not holiday,tuesday,workday,clear & partly cloudy,0.603554,701,4062,4763
+257,2011-09-14,fall,2011,September,not holiday,wednesday,workday,clear & partly cloudy,0.6269,647,4138,4785
+258,2011-09-15,fall,2011,September,not holiday,thursday,workday,mist & cloudy,0.553671,428,3231,3659
+259,2011-09-16,fall,2011,September,not holiday,friday,workday,mist & cloudy,0.461475,742,4018,4760
+260,2011-09-17,fall,2011,September,not holiday,saturday,restday,mist & cloudy,0.478512,1434,3077,4511
+261,2011-09-18,fall,2011,September,not holiday,sunday,restday,clear & partly cloudy,0.490537,1353,2921,4274
+262,2011-09-19,fall,2011,September,not holiday,monday,workday,mist & cloudy,0.529675,691,3848,4539
+263,2011-09-20,fall,2011,September,not holiday,tuesday,workday,mist & cloudy,0.532217,438,3203,3641
+264,2011-09-21,fall,2011,September,not holiday,wednesday,workday,mist & cloudy,0.550533,539,3813,4352
+265,2011-09-22,fall,2011,September,not holiday,thursday,workday,mist & cloudy,0.554963,555,4240,4795
+266,2011-09-23,winter,2011,September,not holiday,friday,workday,mist & cloudy,0.522125,258,2137,2395
+267,2011-09-24,winter,2011,September,not holiday,saturday,restday,mist & cloudy,0.564412,1776,3647,5423
+268,2011-09-25,winter,2011,September,not holiday,sunday,restday,mist & cloudy,0.572637,1544,3466,5010
+269,2011-09-26,winter,2011,September,not holiday,monday,workday,mist & cloudy,0.589042,684,3946,4630
+270,2011-09-27,winter,2011,September,not holiday,tuesday,workday,mist & cloudy,0.574525,477,3643,4120
+271,2011-09-28,winter,2011,September,not holiday,wednesday,workday,mist & cloudy,0.575158,480,3427,3907
+272,2011-09-29,winter,2011,September,not holiday,thursday,workday,clear & partly cloudy,0.574512,653,4186,4839
+273,2011-09-30,winter,2011,September,not holiday,friday,workday,clear & partly cloudy,0.544829,830,4372,5202
+274,2011-10-01,winter,2011,Oktober,not holiday,saturday,restday,mist & cloudy,0.412863,480,1949,2429
+275,2011-10-02,winter,2011,Oktober,not holiday,sunday,restday,mist & cloudy,0.345317,616,2302,2918
+276,2011-10-03,winter,2011,Oktober,not holiday,monday,workday,mist & cloudy,0.392046,330,3240,3570
+277,2011-10-04,winter,2011,Oktober,not holiday,tuesday,workday,clear & partly cloudy,0.472858,486,3970,4456
+278,2011-10-05,winter,2011,Oktober,not holiday,wednesday,workday,clear & partly cloudy,0.527138,559,4267,4826
+279,2011-10-06,winter,2011,Oktober,not holiday,thursday,workday,clear & partly cloudy,0.480425,639,4126,4765
+280,2011-10-07,winter,2011,Oktober,not holiday,friday,workday,clear & partly cloudy,0.504404,949,4036,4985
+281,2011-10-08,winter,2011,Oktober,not holiday,saturday,restday,clear & partly cloudy,0.513242,2235,3174,5409
+282,2011-10-09,winter,2011,Oktober,not holiday,sunday,restday,clear & partly cloudy,0.523983,2397,3114,5511
+283,2011-10-10,winter,2011,Oktober,holiday,monday,restday,clear & partly cloudy,0.542925,1514,3603,5117
+284,2011-10-11,winter,2011,Oktober,not holiday,tuesday,workday,mist & cloudy,0.546096,667,3896,4563
+285,2011-10-12,winter,2011,Oktober,not holiday,wednesday,workday,light snow & light rain,0.517717,217,2199,2416
+286,2011-10-13,winter,2011,Oktober,not holiday,thursday,workday,mist & cloudy,0.551804,290,2623,2913
+287,2011-10-14,winter,2011,Oktober,not holiday,friday,workday,mist & cloudy,0.529675,529,3115,3644
+288,2011-10-15,winter,2011,Oktober,not holiday,saturday,restday,clear & partly cloudy,0.498725,1899,3318,5217
+289,2011-10-16,winter,2011,Oktober,not holiday,sunday,restday,clear & partly cloudy,0.503154,1748,3293,5041
+290,2011-10-17,winter,2011,Oktober,not holiday,monday,workday,clear & partly cloudy,0.510725,713,3857,4570
+291,2011-10-18,winter,2011,Oktober,not holiday,tuesday,workday,mist & cloudy,0.522721,637,4111,4748
+292,2011-10-19,winter,2011,Oktober,not holiday,wednesday,workday,light snow & light rain,0.513848,254,2170,2424
+293,2011-10-20,winter,2011,Oktober,not holiday,thursday,workday,clear & partly cloudy,0.466525,471,3724,4195
+294,2011-10-21,winter,2011,Oktober,not holiday,friday,workday,clear & partly cloudy,0.423596,676,3628,4304
+295,2011-10-22,winter,2011,Oktober,not holiday,saturday,restday,clear & partly cloudy,0.425492,1499,2809,4308
+296,2011-10-23,winter,2011,Oktober,not holiday,sunday,restday,clear & partly cloudy,0.422333,1619,2762,4381
+297,2011-10-24,winter,2011,Oktober,not holiday,monday,workday,clear & partly cloudy,0.457067,699,3488,4187
+298,2011-10-25,winter,2011,Oktober,not holiday,tuesday,workday,clear & partly cloudy,0.463375,695,3992,4687
+299,2011-10-26,winter,2011,Oktober,not holiday,wednesday,workday,mist & cloudy,0.472846,404,3490,3894
+300,2011-10-27,winter,2011,Oktober,not holiday,thursday,workday,mist & cloudy,0.457046,240,2419,2659
+301,2011-10-28,winter,2011,Oktober,not holiday,friday,workday,mist & cloudy,0.318812,456,3291,3747
+302,2011-10-29,winter,2011,Oktober,not holiday,saturday,restday,light snow & light rain,0.227913,57,570,627
+303,2011-10-30,winter,2011,Oktober,not holiday,sunday,restday,clear & partly cloudy,0.321329,885,2446,3331
+304,2011-10-31,winter,2011,Oktober,not holiday,monday,workday,clear & partly cloudy,0.356063,362,3307,3669
+305,2011-11-01,winter,2011,November,not holiday,tuesday,workday,clear & partly cloudy,0.397088,410,3658,4068
+306,2011-11-02,winter,2011,November,not holiday,wednesday,workday,clear & partly cloudy,0.390133,370,3816,4186
+307,2011-11-03,winter,2011,November,not holiday,thursday,workday,clear & partly cloudy,0.405921,318,3656,3974
+308,2011-11-04,winter,2011,November,not holiday,friday,workday,mist & cloudy,0.403392,470,3576,4046
+309,2011-11-05,winter,2011,November,not holiday,saturday,restday,clear & partly cloudy,0.323854,1156,2770,3926
+310,2011-11-06,winter,2011,November,not holiday,sunday,restday,clear & partly cloudy,0.362358,952,2697,3649
+311,2011-11-07,winter,2011,November,not holiday,monday,workday,clear & partly cloudy,0.400871,373,3662,4035
+312,2011-11-08,winter,2011,November,not holiday,tuesday,workday,clear & partly cloudy,0.412246,376,3829,4205
+313,2011-11-09,winter,2011,November,not holiday,wednesday,workday,clear & partly cloudy,0.409079,305,3804,4109
+314,2011-11-10,winter,2011,November,not holiday,thursday,workday,mist & cloudy,0.373721,190,2743,2933
+315,2011-11-11,winter,2011,November,holiday,friday,restday,clear & partly cloudy,0.306817,440,2928,3368
+316,2011-11-12,winter,2011,November,not holiday,saturday,restday,clear & partly cloudy,0.357942,1275,2792,4067
+317,2011-11-13,winter,2011,November,not holiday,sunday,restday,clear & partly cloudy,0.43055,1004,2713,3717
+318,2011-11-14,winter,2011,November,not holiday,monday,workday,clear & partly cloudy,0.524612,595,3891,4486
+319,2011-11-15,winter,2011,November,not holiday,tuesday,workday,mist & cloudy,0.507579,449,3746,4195
+320,2011-11-16,winter,2011,November,not holiday,wednesday,workday,light snow & light rain,0.451988,145,1672,1817
+321,2011-11-17,winter,2011,November,not holiday,thursday,workday,mist & cloudy,0.323221,139,2914,3053
+322,2011-11-18,winter,2011,November,not holiday,friday,workday,clear & partly cloudy,0.272721,245,3147,3392
+323,2011-11-19,winter,2011,November,not holiday,saturday,restday,clear & partly cloudy,0.324483,943,2720,3663
+324,2011-11-20,winter,2011,November,not holiday,sunday,restday,mist & cloudy,0.457058,787,2733,3520
+325,2011-11-21,winter,2011,November,not holiday,monday,workday,light snow & light rain,0.445062,220,2545,2765
+326,2011-11-22,winter,2011,November,not holiday,tuesday,workday,light snow & light rain,0.421696,69,1538,1607
+327,2011-11-23,winter,2011,November,not holiday,wednesday,workday,mist & cloudy,0.430537,112,2454,2566
+328,2011-11-24,winter,2011,November,holiday,thursday,restday,clear & partly cloudy,0.372471,560,935,1495
+329,2011-11-25,winter,2011,November,not holiday,friday,workday,clear & partly cloudy,0.380671,1095,1697,2792
+330,2011-11-26,winter,2011,November,not holiday,saturday,restday,clear & partly cloudy,0.385087,1249,1819,3068
+331,2011-11-27,winter,2011,November,not holiday,sunday,restday,clear & partly cloudy,0.4558,810,2261,3071
+332,2011-11-28,winter,2011,November,not holiday,monday,workday,clear & partly cloudy,0.490122,253,3614,3867
+333,2011-11-29,winter,2011,November,not holiday,tuesday,workday,mist & cloudy,0.451375,96,2818,2914
+334,2011-11-30,winter,2011,November,not holiday,wednesday,workday,clear & partly cloudy,0.311221,188,3425,3613
+335,2011-12-01,winter,2011,Desember,not holiday,thursday,workday,clear & partly cloudy,0.305554,182,3545,3727
+336,2011-12-02,winter,2011,Desember,not holiday,friday,workday,clear & partly cloudy,0.331433,268,3672,3940
+337,2011-12-03,winter,2011,Desember,not holiday,saturday,restday,clear & partly cloudy,0.310604,706,2908,3614
+338,2011-12-04,winter,2011,Desember,not holiday,sunday,restday,clear & partly cloudy,0.3491,634,2851,3485
+339,2011-12-05,winter,2011,Desember,not holiday,monday,workday,mist & cloudy,0.393925,233,3578,3811
+340,2011-12-06,winter,2011,Desember,not holiday,tuesday,workday,light snow & light rain,0.4564,126,2468,2594
+341,2011-12-07,winter,2011,Desember,not holiday,wednesday,workday,light snow & light rain,0.400246,50,655,705
+342,2011-12-08,winter,2011,Desember,not holiday,thursday,workday,clear & partly cloudy,0.256938,150,3172,3322
+343,2011-12-09,winter,2011,Desember,not holiday,friday,workday,clear & partly cloudy,0.317542,261,3359,3620
+344,2011-12-10,winter,2011,Desember,not holiday,saturday,restday,clear & partly cloudy,0.266412,502,2688,3190
+345,2011-12-11,winter,2011,Desember,not holiday,sunday,restday,clear & partly cloudy,0.253154,377,2366,2743
+346,2011-12-12,winter,2011,Desember,not holiday,monday,workday,clear & partly cloudy,0.270196,143,3167,3310
+347,2011-12-13,winter,2011,Desember,not holiday,tuesday,workday,clear & partly cloudy,0.301138,155,3368,3523
+348,2011-12-14,winter,2011,Desember,not holiday,wednesday,workday,mist & cloudy,0.338362,178,3562,3740
+349,2011-12-15,winter,2011,Desember,not holiday,thursday,workday,mist & cloudy,0.412237,181,3528,3709
+350,2011-12-16,winter,2011,Desember,not holiday,friday,workday,mist & cloudy,0.359825,178,3399,3577
+351,2011-12-17,winter,2011,Desember,not holiday,saturday,restday,mist & cloudy,0.249371,275,2464,2739
+352,2011-12-18,winter,2011,Desember,not holiday,sunday,restday,clear & partly cloudy,0.245579,220,2211,2431
+353,2011-12-19,winter,2011,Desember,not holiday,monday,workday,clear & partly cloudy,0.280933,260,3143,3403
+354,2011-12-20,winter,2011,Desember,not holiday,tuesday,workday,mist & cloudy,0.396454,216,3534,3750
+355,2011-12-21,springer,2011,Desember,not holiday,wednesday,workday,mist & cloudy,0.428017,107,2553,2660
+356,2011-12-22,springer,2011,Desember,not holiday,thursday,workday,mist & cloudy,0.426121,227,2841,3068
+357,2011-12-23,springer,2011,Desember,not holiday,friday,workday,clear & partly cloudy,0.377513,163,2046,2209
+358,2011-12-24,springer,2011,Desember,not holiday,saturday,restday,clear & partly cloudy,0.299242,155,856,1011
+359,2011-12-25,springer,2011,Desember,not holiday,sunday,restday,clear & partly cloudy,0.279961,303,451,754
+360,2011-12-26,springer,2011,Desember,holiday,monday,restday,clear & partly cloudy,0.315535,430,887,1317
+361,2011-12-27,springer,2011,Desember,not holiday,tuesday,workday,mist & cloudy,0.327633,103,1059,1162
+362,2011-12-28,springer,2011,Desember,not holiday,wednesday,workday,clear & partly cloudy,0.279974,255,2047,2302
+363,2011-12-29,springer,2011,Desember,not holiday,thursday,workday,clear & partly cloudy,0.263892,254,2169,2423
+364,2011-12-30,springer,2011,Desember,not holiday,friday,workday,clear & partly cloudy,0.318812,491,2508,2999
+365,2011-12-31,springer,2011,Desember,not holiday,saturday,restday,clear & partly cloudy,0.414121,665,1820,2485
+366,2012-01-01,springer,2012,Januari,not holiday,sunday,restday,clear & partly cloudy,0.375621,686,1608,2294
+367,2012-01-02,springer,2012,Januari,holiday,monday,restday,clear & partly cloudy,0.252304,244,1707,1951
+368,2012-01-03,springer,2012,Januari,not holiday,tuesday,workday,clear & partly cloudy,0.126275,89,2147,2236
+369,2012-01-04,springer,2012,Januari,not holiday,wednesday,workday,mist & cloudy,0.119337,95,2273,2368
+370,2012-01-05,springer,2012,Januari,not holiday,thursday,workday,clear & partly cloudy,0.278412,140,3132,3272
+371,2012-01-06,springer,2012,Januari,not holiday,friday,workday,clear & partly cloudy,0.340267,307,3791,4098
+372,2012-01-07,springer,2012,Januari,not holiday,saturday,restday,clear & partly cloudy,0.390779,1070,3451,4521
+373,2012-01-08,springer,2012,Januari,not holiday,sunday,restday,clear & partly cloudy,0.340258,599,2826,3425
+374,2012-01-09,springer,2012,Januari,not holiday,monday,workday,mist & cloudy,0.247479,106,2270,2376
+375,2012-01-10,springer,2012,Januari,not holiday,tuesday,workday,clear & partly cloudy,0.318826,173,3425,3598
+376,2012-01-11,springer,2012,Januari,not holiday,wednesday,workday,mist & cloudy,0.282821,92,2085,2177
+377,2012-01-12,springer,2012,Januari,not holiday,thursday,workday,mist & cloudy,0.381938,269,3828,4097
+378,2012-01-13,springer,2012,Januari,not holiday,friday,workday,clear & partly cloudy,0.249362,174,3040,3214
+379,2012-01-14,springer,2012,Januari,not holiday,saturday,restday,clear & partly cloudy,0.183087,333,2160,2493
+380,2012-01-15,springer,2012,Januari,not holiday,sunday,restday,clear & partly cloudy,0.161625,284,2027,2311
+381,2012-01-16,springer,2012,Januari,holiday,monday,restday,clear & partly cloudy,0.190663,217,2081,2298
+382,2012-01-17,springer,2012,Januari,not holiday,tuesday,workday,mist & cloudy,0.364278,127,2808,2935
+383,2012-01-18,springer,2012,Januari,not holiday,wednesday,workday,clear & partly cloudy,0.275254,109,3267,3376
+384,2012-01-19,springer,2012,Januari,not holiday,thursday,workday,clear & partly cloudy,0.190038,130,3162,3292
+385,2012-01-20,springer,2012,Januari,not holiday,friday,workday,mist & cloudy,0.220958,115,3048,3163
+386,2012-01-21,springer,2012,Januari,not holiday,saturday,restday,mist & cloudy,0.174875,67,1234,1301
+387,2012-01-22,springer,2012,Januari,not holiday,sunday,restday,mist & cloudy,0.16225,196,1781,1977
+388,2012-01-23,springer,2012,Januari,not holiday,monday,workday,mist & cloudy,0.243058,145,2287,2432
+389,2012-01-24,springer,2012,Januari,not holiday,tuesday,workday,clear & partly cloudy,0.349108,439,3900,4339
+390,2012-01-25,springer,2012,Januari,not holiday,wednesday,workday,clear & partly cloudy,0.294821,467,3803,4270
+391,2012-01-26,springer,2012,Januari,not holiday,thursday,workday,mist & cloudy,0.35605,244,3831,4075
+392,2012-01-27,springer,2012,Januari,not holiday,friday,workday,mist & cloudy,0.415383,269,3187,3456
+393,2012-01-28,springer,2012,Januari,not holiday,saturday,restday,clear & partly cloudy,0.326379,775,3248,4023
+394,2012-01-29,springer,2012,Januari,not holiday,sunday,restday,clear & partly cloudy,0.272721,558,2685,3243
+395,2012-01-30,springer,2012,Januari,not holiday,monday,workday,clear & partly cloudy,0.262625,126,3498,3624
+396,2012-01-31,springer,2012,Januari,not holiday,tuesday,workday,clear & partly cloudy,0.381317,324,4185,4509
+397,2012-02-01,springer,2012,Februari,not holiday,wednesday,workday,clear & partly cloudy,0.466538,304,4275,4579
+398,2012-02-02,springer,2012,Februari,not holiday,thursday,workday,mist & cloudy,0.398971,190,3571,3761
+399,2012-02-03,springer,2012,Februari,not holiday,friday,workday,clear & partly cloudy,0.309346,310,3841,4151
+400,2012-02-04,springer,2012,Februari,not holiday,saturday,restday,mist & cloudy,0.272725,384,2448,2832
+401,2012-02-05,springer,2012,Februari,not holiday,sunday,restday,mist & cloudy,0.264521,318,2629,2947
+402,2012-02-06,springer,2012,Februari,not holiday,monday,workday,clear & partly cloudy,0.296426,206,3578,3784
+403,2012-02-07,springer,2012,Februari,not holiday,tuesday,workday,clear & partly cloudy,0.361104,199,4176,4375
+404,2012-02-08,springer,2012,Februari,not holiday,wednesday,workday,mist & cloudy,0.266421,109,2693,2802
+405,2012-02-09,springer,2012,Februari,not holiday,thursday,workday,clear & partly cloudy,0.261988,163,3667,3830
+406,2012-02-10,springer,2012,Februari,not holiday,friday,workday,mist & cloudy,0.293558,227,3604,3831
+407,2012-02-11,springer,2012,Februari,not holiday,saturday,restday,light snow & light rain,0.210867,192,1977,2169
+408,2012-02-12,springer,2012,Februari,not holiday,sunday,restday,clear & partly cloudy,0.101658,73,1456,1529
+409,2012-02-13,springer,2012,Februari,not holiday,monday,workday,clear & partly cloudy,0.227913,94,3328,3422
+410,2012-02-14,springer,2012,Februari,not holiday,tuesday,workday,mist & cloudy,0.333946,135,3787,3922
+411,2012-02-15,springer,2012,Februari,not holiday,wednesday,workday,clear & partly cloudy,0.351629,141,4028,4169
+412,2012-02-16,springer,2012,Februari,not holiday,thursday,workday,mist & cloudy,0.330162,74,2931,3005
+413,2012-02-17,springer,2012,Februari,not holiday,friday,workday,clear & partly cloudy,0.351629,349,3805,4154
+414,2012-02-18,springer,2012,Februari,not holiday,saturday,restday,clear & partly cloudy,0.355425,1435,2883,4318
+415,2012-02-19,springer,2012,Februari,not holiday,sunday,restday,mist & cloudy,0.265788,618,2071,2689
+416,2012-02-20,springer,2012,Februari,holiday,monday,restday,clear & partly cloudy,0.273391,502,2627,3129
+417,2012-02-21,springer,2012,Februari,not holiday,tuesday,workday,clear & partly cloudy,0.295113,163,3614,3777
+418,2012-02-22,springer,2012,Februari,not holiday,wednesday,workday,clear & partly cloudy,0.392667,394,4379,4773
+419,2012-02-23,springer,2012,Februari,not holiday,thursday,workday,clear & partly cloudy,0.444446,516,4546,5062
+420,2012-02-24,springer,2012,Februari,not holiday,friday,workday,mist & cloudy,0.410971,246,3241,3487
+421,2012-02-25,springer,2012,Februari,not holiday,saturday,restday,clear & partly cloudy,0.255675,317,2415,2732
+422,2012-02-26,springer,2012,Februari,not holiday,sunday,restday,clear & partly cloudy,0.268308,515,2874,3389
+423,2012-02-27,springer,2012,Februari,not holiday,monday,workday,clear & partly cloudy,0.357954,253,4069,4322
+424,2012-02-28,springer,2012,Februari,not holiday,tuesday,workday,clear & partly cloudy,0.353525,229,4134,4363
+425,2012-02-29,springer,2012,Februari,not holiday,wednesday,workday,mist & cloudy,0.34847,65,1769,1834
+426,2012-03-01,springer,2012,Maret,not holiday,thursday,workday,clear & partly cloudy,0.475371,325,4665,4990
+427,2012-03-02,springer,2012,Maret,not holiday,friday,workday,mist & cloudy,0.359842,246,2948,3194
+428,2012-03-03,springer,2012,Maret,not holiday,saturday,restday,mist & cloudy,0.413492,956,3110,4066
+429,2012-03-04,springer,2012,Maret,not holiday,sunday,restday,clear & partly cloudy,0.303021,710,2713,3423
+430,2012-03-05,springer,2012,Maret,not holiday,monday,workday,clear & partly cloudy,0.241171,203,3130,3333
+431,2012-03-06,springer,2012,Maret,not holiday,tuesday,workday,clear & partly cloudy,0.255042,221,3735,3956
+432,2012-03-07,springer,2012,Maret,not holiday,wednesday,workday,clear & partly cloudy,0.3851,432,4484,4916
+433,2012-03-08,springer,2012,Maret,not holiday,thursday,workday,clear & partly cloudy,0.524604,486,4896,5382
+434,2012-03-09,springer,2012,Maret,not holiday,friday,workday,mist & cloudy,0.397083,447,4122,4569
+435,2012-03-10,springer,2012,Maret,not holiday,saturday,restday,clear & partly cloudy,0.277767,968,3150,4118
+436,2012-03-11,springer,2012,Maret,not holiday,sunday,restday,clear & partly cloudy,0.35967,1658,3253,4911
+437,2012-03-12,springer,2012,Maret,not holiday,monday,workday,clear & partly cloudy,0.459592,838,4460,5298
+438,2012-03-13,springer,2012,Maret,not holiday,tuesday,workday,clear & partly cloudy,0.542929,762,5085,5847
+439,2012-03-14,springer,2012,Maret,not holiday,wednesday,workday,clear & partly cloudy,0.548617,997,5315,6312
+440,2012-03-15,springer,2012,Maret,not holiday,thursday,workday,clear & partly cloudy,0.532825,1005,5187,6192
+441,2012-03-16,springer,2012,Maret,not holiday,friday,workday,mist & cloudy,0.436229,548,3830,4378
+442,2012-03-17,springer,2012,Maret,not holiday,saturday,restday,mist & cloudy,0.505046,3155,4681,7836
+443,2012-03-18,springer,2012,Maret,not holiday,sunday,restday,mist & cloudy,0.464,2207,3685,5892
+444,2012-03-19,springer,2012,Maret,not holiday,monday,workday,clear & partly cloudy,0.532821,982,5171,6153
+445,2012-03-20,springer,2012,Maret,not holiday,tuesday,workday,clear & partly cloudy,0.538533,1051,5042,6093
+446,2012-03-21,summer,2012,Maret,not holiday,wednesday,workday,mist & cloudy,0.513258,1122,5108,6230
+447,2012-03-22,summer,2012,Maret,not holiday,thursday,workday,clear & partly cloudy,0.531567,1334,5537,6871
+448,2012-03-23,summer,2012,Maret,not holiday,friday,workday,mist & cloudy,0.570067,2469,5893,8362
+449,2012-03-24,summer,2012,Maret,not holiday,saturday,restday,mist & cloudy,0.486733,1033,2339,3372
+450,2012-03-25,summer,2012,Maret,not holiday,sunday,restday,mist & cloudy,0.437488,1532,3464,4996
+451,2012-03-26,summer,2012,Maret,not holiday,monday,workday,clear & partly cloudy,0.43875,795,4763,5558
+452,2012-03-27,summer,2012,Maret,not holiday,tuesday,workday,clear & partly cloudy,0.315654,531,4571,5102
+453,2012-03-28,summer,2012,Maret,not holiday,wednesday,workday,clear & partly cloudy,0.47095,674,5024,5698
+454,2012-03-29,summer,2012,Maret,not holiday,thursday,workday,clear & partly cloudy,0.482304,834,5299,6133
+455,2012-03-30,summer,2012,Maret,not holiday,friday,workday,mist & cloudy,0.375621,796,4663,5459
+456,2012-03-31,summer,2012,Maret,not holiday,saturday,restday,mist & cloudy,0.421708,2301,3934,6235
+457,2012-04-01,summer,2012,April,not holiday,sunday,restday,mist & cloudy,0.417287,2347,3694,6041
+458,2012-04-02,summer,2012,April,not holiday,monday,workday,clear & partly cloudy,0.427513,1208,4728,5936
+459,2012-04-03,summer,2012,April,not holiday,tuesday,workday,clear & partly cloudy,0.461483,1348,5424,6772
+460,2012-04-04,summer,2012,April,not holiday,wednesday,workday,clear & partly cloudy,0.53345,1058,5378,6436
+461,2012-04-05,summer,2012,April,not holiday,thursday,workday,clear & partly cloudy,0.431163,1192,5265,6457
+462,2012-04-06,summer,2012,April,not holiday,friday,workday,clear & partly cloudy,0.390767,1807,4653,6460
+463,2012-04-07,summer,2012,April,not holiday,saturday,restday,clear & partly cloudy,0.426129,3252,3605,6857
+464,2012-04-08,summer,2012,April,not holiday,sunday,restday,clear & partly cloudy,0.492425,2230,2939,5169
+465,2012-04-09,summer,2012,April,not holiday,monday,workday,clear & partly cloudy,0.476638,905,4680,5585
+466,2012-04-10,summer,2012,April,not holiday,tuesday,workday,clear & partly cloudy,0.436233,819,5099,5918
+467,2012-04-11,summer,2012,April,not holiday,wednesday,workday,clear & partly cloudy,0.337274,482,4380,4862
+468,2012-04-12,summer,2012,April,not holiday,thursday,workday,clear & partly cloudy,0.387604,663,4746,5409
+469,2012-04-13,summer,2012,April,not holiday,friday,workday,clear & partly cloudy,0.431808,1252,5146,6398
+470,2012-04-14,summer,2012,April,not holiday,saturday,restday,clear & partly cloudy,0.487996,2795,4665,7460
+471,2012-04-15,summer,2012,April,not holiday,sunday,restday,clear & partly cloudy,0.573875,2846,4286,7132
+472,2012-04-16,summer,2012,April,holiday,monday,restday,clear & partly cloudy,0.614925,1198,5172,6370
+473,2012-04-17,summer,2012,April,not holiday,tuesday,workday,clear & partly cloudy,0.598487,989,5702,6691
+474,2012-04-18,summer,2012,April,not holiday,wednesday,workday,mist & cloudy,0.457038,347,4020,4367
+475,2012-04-19,summer,2012,April,not holiday,thursday,workday,clear & partly cloudy,0.493046,846,5719,6565
+476,2012-04-20,summer,2012,April,not holiday,friday,workday,clear & partly cloudy,0.515775,1340,5950,7290
+477,2012-04-21,summer,2012,April,not holiday,saturday,restday,clear & partly cloudy,0.542921,2541,4083,6624
+478,2012-04-22,summer,2012,April,not holiday,sunday,restday,light snow & light rain,0.389504,120,907,1027
+479,2012-04-23,summer,2012,April,not holiday,monday,workday,mist & cloudy,0.301125,195,3019,3214
+480,2012-04-24,summer,2012,April,not holiday,tuesday,workday,clear & partly cloudy,0.405283,518,5115,5633
+481,2012-04-25,summer,2012,April,not holiday,wednesday,workday,clear & partly cloudy,0.470317,655,5541,6196
+482,2012-04-26,summer,2012,April,not holiday,thursday,workday,mist & cloudy,0.483583,475,4551,5026
+483,2012-04-27,summer,2012,April,not holiday,friday,workday,clear & partly cloudy,0.452637,1014,5219,6233
+484,2012-04-28,summer,2012,April,not holiday,saturday,restday,mist & cloudy,0.377504,1120,3100,4220
+485,2012-04-29,summer,2012,April,not holiday,sunday,restday,clear & partly cloudy,0.450121,2229,4075,6304
+486,2012-04-30,summer,2012,April,not holiday,monday,workday,mist & cloudy,0.457696,665,4907,5572
+487,2012-05-01,summer,2012,Mai,not holiday,tuesday,workday,mist & cloudy,0.577021,653,5087,5740
+488,2012-05-02,summer,2012,Mai,not holiday,wednesday,workday,clear & partly cloudy,0.537896,667,5502,6169
+489,2012-05-03,summer,2012,Mai,not holiday,thursday,workday,mist & cloudy,0.537242,764,5657,6421
+490,2012-05-04,summer,2012,Mai,not holiday,friday,workday,clear & partly cloudy,0.590917,1069,5227,6296
+491,2012-05-05,summer,2012,Mai,not holiday,saturday,restday,mist & cloudy,0.584608,2496,4387,6883
+492,2012-05-06,summer,2012,Mai,not holiday,sunday,restday,mist & cloudy,0.546737,2135,4224,6359
+493,2012-05-07,summer,2012,Mai,not holiday,monday,workday,mist & cloudy,0.527142,1008,5265,6273
+494,2012-05-08,summer,2012,Mai,not holiday,tuesday,workday,mist & cloudy,0.557471,738,4990,5728
+495,2012-05-09,summer,2012,Mai,not holiday,wednesday,workday,mist & cloudy,0.553025,620,4097,4717
+496,2012-05-10,summer,2012,Mai,not holiday,thursday,workday,clear & partly cloudy,0.491783,1026,5546,6572
+497,2012-05-11,summer,2012,Mai,not holiday,friday,workday,clear & partly cloudy,0.520833,1319,5711,7030
+498,2012-05-12,summer,2012,Mai,not holiday,saturday,restday,clear & partly cloudy,0.544817,2622,4807,7429
+499,2012-05-13,summer,2012,Mai,not holiday,sunday,restday,clear & partly cloudy,0.585238,2172,3946,6118
+500,2012-05-14,summer,2012,Mai,not holiday,monday,workday,mist & cloudy,0.5499,342,2501,2843
+501,2012-05-15,summer,2012,Mai,not holiday,tuesday,workday,mist & cloudy,0.576404,625,4490,5115
+502,2012-05-16,summer,2012,Mai,not holiday,wednesday,workday,clear & partly cloudy,0.595975,991,6433,7424
+503,2012-05-17,summer,2012,Mai,not holiday,thursday,workday,clear & partly cloudy,0.572613,1242,6142,7384
+504,2012-05-18,summer,2012,Mai,not holiday,friday,workday,clear & partly cloudy,0.551121,1521,6118,7639
+505,2012-05-19,summer,2012,Mai,not holiday,saturday,restday,clear & partly cloudy,0.566908,3410,4884,8294
+506,2012-05-20,summer,2012,Mai,not holiday,sunday,restday,clear & partly cloudy,0.583967,2704,4425,7129
+507,2012-05-21,summer,2012,Mai,not holiday,monday,workday,mist & cloudy,0.565667,630,3729,4359
+508,2012-05-22,summer,2012,Mai,not holiday,tuesday,workday,mist & cloudy,0.580825,819,5254,6073
+509,2012-05-23,summer,2012,Mai,not holiday,wednesday,workday,mist & cloudy,0.584612,766,4494,5260
+510,2012-05-24,summer,2012,Mai,not holiday,thursday,workday,clear & partly cloudy,0.6067,1059,5711,6770
+511,2012-05-25,summer,2012,Mai,not holiday,friday,workday,clear & partly cloudy,0.627529,1417,5317,6734
+512,2012-05-26,summer,2012,Mai,not holiday,saturday,restday,clear & partly cloudy,0.642696,2855,3681,6536
+513,2012-05-27,summer,2012,Mai,not holiday,sunday,restday,clear & partly cloudy,0.641425,3283,3308,6591
+514,2012-05-28,summer,2012,Mai,holiday,monday,restday,clear & partly cloudy,0.6793,2557,3486,6043
+515,2012-05-29,summer,2012,Mai,not holiday,tuesday,workday,clear & partly cloudy,0.672992,880,4863,5743
+516,2012-05-30,summer,2012,Mai,not holiday,wednesday,workday,mist & cloudy,0.611129,745,6110,6855
+517,2012-05-31,summer,2012,Mai,not holiday,thursday,workday,clear & partly cloudy,0.631329,1100,6238,7338
+518,2012-06-01,summer,2012,Juni,not holiday,friday,workday,mist & cloudy,0.607962,533,3594,4127
+519,2012-06-02,summer,2012,Juni,not holiday,saturday,restday,clear & partly cloudy,0.566288,2795,5325,8120
+520,2012-06-03,summer,2012,Juni,not holiday,sunday,restday,clear & partly cloudy,0.575133,2494,5147,7641
+521,2012-06-04,summer,2012,Juni,not holiday,monday,workday,clear & partly cloudy,0.578283,1071,5927,6998
+522,2012-06-05,summer,2012,Juni,not holiday,tuesday,workday,mist & cloudy,0.525892,968,6033,7001
+523,2012-06-06,summer,2012,Juni,not holiday,wednesday,workday,clear & partly cloudy,0.542292,1027,6028,7055
+524,2012-06-07,summer,2012,Juni,not holiday,thursday,workday,clear & partly cloudy,0.569442,1038,6456,7494
+525,2012-06-08,summer,2012,Juni,not holiday,friday,workday,clear & partly cloudy,0.597862,1488,6248,7736
+526,2012-06-09,summer,2012,Juni,not holiday,saturday,restday,clear & partly cloudy,0.648367,2708,4790,7498
+527,2012-06-10,summer,2012,Juni,not holiday,sunday,restday,clear & partly cloudy,0.663517,2224,4374,6598
+528,2012-06-11,summer,2012,Juni,not holiday,monday,workday,mist & cloudy,0.659721,1017,5647,6664
+529,2012-06-12,summer,2012,Juni,not holiday,tuesday,workday,mist & cloudy,0.597875,477,4495,4972
+530,2012-06-13,summer,2012,Juni,not holiday,wednesday,workday,clear & partly cloudy,0.611117,1173,6248,7421
+531,2012-06-14,summer,2012,Juni,not holiday,thursday,workday,clear & partly cloudy,0.624383,1180,6183,7363
+532,2012-06-15,summer,2012,Juni,not holiday,friday,workday,clear & partly cloudy,0.599754,1563,6102,7665
+533,2012-06-16,summer,2012,Juni,not holiday,saturday,restday,clear & partly cloudy,0.594708,2963,4739,7702
+534,2012-06-17,summer,2012,Juni,not holiday,sunday,restday,clear & partly cloudy,0.571975,2634,4344,6978
+535,2012-06-18,summer,2012,Juni,not holiday,monday,workday,mist & cloudy,0.544842,653,4446,5099
+536,2012-06-19,summer,2012,Juni,not holiday,tuesday,workday,clear & partly cloudy,0.654692,968,5857,6825
+537,2012-06-20,summer,2012,Juni,not holiday,wednesday,workday,clear & partly cloudy,0.720975,872,5339,6211
+538,2012-06-21,fall,2012,Juni,not holiday,thursday,workday,clear & partly cloudy,0.752542,778,5127,5905
+539,2012-06-22,fall,2012,Juni,not holiday,friday,workday,clear & partly cloudy,0.724121,964,4859,5823
+540,2012-06-23,fall,2012,Juni,not holiday,saturday,restday,clear & partly cloudy,0.652792,2657,4801,7458
+541,2012-06-24,fall,2012,Juni,not holiday,sunday,restday,clear & partly cloudy,0.674254,2551,4340,6891
+542,2012-06-25,fall,2012,Juni,not holiday,monday,workday,clear & partly cloudy,0.654042,1139,5640,6779
+543,2012-06-26,fall,2012,Juni,not holiday,tuesday,workday,clear & partly cloudy,0.594704,1077,6365,7442
+544,2012-06-27,fall,2012,Juni,not holiday,wednesday,workday,clear & partly cloudy,0.640792,1077,6258,7335
+545,2012-06-28,fall,2012,Juni,not holiday,thursday,workday,clear & partly cloudy,0.675512,921,5958,6879
+546,2012-06-29,fall,2012,Juni,not holiday,friday,workday,clear & partly cloudy,0.786613,829,4634,5463
+547,2012-06-30,fall,2012,Juni,not holiday,saturday,restday,clear & partly cloudy,0.687508,1455,4232,5687
+548,2012-07-01,fall,2012,Juli,not holiday,sunday,restday,clear & partly cloudy,0.750629,1421,4110,5531
+549,2012-07-02,fall,2012,Juli,not holiday,monday,workday,clear & partly cloudy,0.702038,904,5323,6227
+550,2012-07-03,fall,2012,Juli,not holiday,tuesday,workday,clear & partly cloudy,0.70265,1052,5608,6660
+551,2012-07-04,fall,2012,Juli,holiday,wednesday,restday,clear & partly cloudy,0.732337,2562,4841,7403
+552,2012-07-05,fall,2012,Juli,not holiday,thursday,workday,clear & partly cloudy,0.761367,1405,4836,6241
+553,2012-07-06,fall,2012,Juli,not holiday,friday,workday,clear & partly cloudy,0.752533,1366,4841,6207
+554,2012-07-07,fall,2012,Juli,not holiday,saturday,restday,clear & partly cloudy,0.804913,1448,3392,4840
+555,2012-07-08,fall,2012,Juli,not holiday,sunday,restday,clear & partly cloudy,0.790396,1203,3469,4672
+556,2012-07-09,fall,2012,Juli,not holiday,monday,workday,mist & cloudy,0.654054,998,5571,6569
+557,2012-07-10,fall,2012,Juli,not holiday,tuesday,workday,mist & cloudy,0.664796,954,5336,6290
+558,2012-07-11,fall,2012,Juli,not holiday,wednesday,workday,clear & partly cloudy,0.650271,975,6289,7264
+559,2012-07-12,fall,2012,Juli,not holiday,thursday,workday,clear & partly cloudy,0.654683,1032,6414,7446
+560,2012-07-13,fall,2012,Juli,not holiday,friday,workday,mist & cloudy,0.667933,1511,5988,7499
+561,2012-07-14,fall,2012,Juli,not holiday,saturday,restday,mist & cloudy,0.666042,2355,4614,6969
+562,2012-07-15,fall,2012,Juli,not holiday,sunday,restday,clear & partly cloudy,0.705196,1920,4111,6031
+563,2012-07-16,fall,2012,Juli,not holiday,monday,workday,clear & partly cloudy,0.724125,1088,5742,6830
+564,2012-07-17,fall,2012,Juli,not holiday,tuesday,workday,clear & partly cloudy,0.755683,921,5865,6786
+565,2012-07-18,fall,2012,Juli,not holiday,wednesday,workday,clear & partly cloudy,0.745583,799,4914,5713
+566,2012-07-19,fall,2012,Juli,not holiday,thursday,workday,clear & partly cloudy,0.714642,888,5703,6591
+567,2012-07-20,fall,2012,Juli,not holiday,friday,workday,mist & cloudy,0.613025,747,5123,5870
+568,2012-07-21,fall,2012,Juli,not holiday,saturday,restday,light snow & light rain,0.549912,1264,3195,4459
+569,2012-07-22,fall,2012,Juli,not holiday,sunday,restday,mist & cloudy,0.623125,2544,4866,7410
+570,2012-07-23,fall,2012,Juli,not holiday,monday,workday,clear & partly cloudy,0.690017,1135,5831,6966
+571,2012-07-24,fall,2012,Juli,not holiday,tuesday,workday,clear & partly cloudy,0.70645,1140,6452,7592
+572,2012-07-25,fall,2012,Juli,not holiday,wednesday,workday,clear & partly cloudy,0.654054,1383,6790,8173
+573,2012-07-26,fall,2012,Juli,not holiday,thursday,workday,clear & partly cloudy,0.739263,1036,5825,6861
+574,2012-07-27,fall,2012,Juli,not holiday,friday,workday,clear & partly cloudy,0.734217,1259,5645,6904
+575,2012-07-28,fall,2012,Juli,not holiday,saturday,restday,clear & partly cloudy,0.697604,2234,4451,6685
+576,2012-07-29,fall,2012,Juli,not holiday,sunday,restday,clear & partly cloudy,0.667933,2153,4444,6597
+577,2012-07-30,fall,2012,Juli,not holiday,monday,workday,clear & partly cloudy,0.684987,1040,6065,7105
+578,2012-07-31,fall,2012,Juli,not holiday,tuesday,workday,clear & partly cloudy,0.662896,968,6248,7216
+579,2012-08-01,fall,2012,Augustus,not holiday,wednesday,workday,clear & partly cloudy,0.667308,1074,6506,7580
+580,2012-08-02,fall,2012,Augustus,not holiday,thursday,workday,clear & partly cloudy,0.707088,983,6278,7261
+581,2012-08-03,fall,2012,Augustus,not holiday,friday,workday,mist & cloudy,0.722867,1328,5847,7175
+582,2012-08-04,fall,2012,Augustus,not holiday,saturday,restday,clear & partly cloudy,0.751267,2345,4479,6824
+583,2012-08-05,fall,2012,Augustus,not holiday,sunday,restday,clear & partly cloudy,0.731079,1707,3757,5464
+584,2012-08-06,fall,2012,Augustus,not holiday,monday,workday,mist & cloudy,0.710246,1233,5780,7013
+585,2012-08-07,fall,2012,Augustus,not holiday,tuesday,workday,mist & cloudy,0.697621,1278,5995,7273
+586,2012-08-08,fall,2012,Augustus,not holiday,wednesday,workday,mist & cloudy,0.707717,1263,6271,7534
+587,2012-08-09,fall,2012,Augustus,not holiday,thursday,workday,clear & partly cloudy,0.699508,1196,6090,7286
+588,2012-08-10,fall,2012,Augustus,not holiday,friday,workday,mist & cloudy,0.667942,1065,4721,5786
+589,2012-08-11,fall,2012,Augustus,not holiday,saturday,restday,mist & cloudy,0.638267,2247,4052,6299
+590,2012-08-12,fall,2012,Augustus,not holiday,sunday,restday,clear & partly cloudy,0.644579,2182,4362,6544
+591,2012-08-13,fall,2012,Augustus,not holiday,monday,workday,clear & partly cloudy,0.662254,1207,5676,6883
+592,2012-08-14,fall,2012,Augustus,not holiday,tuesday,workday,clear & partly cloudy,0.676779,1128,5656,6784
+593,2012-08-15,fall,2012,Augustus,not holiday,wednesday,workday,clear & partly cloudy,0.654037,1198,6149,7347
+594,2012-08-16,fall,2012,Augustus,not holiday,thursday,workday,clear & partly cloudy,0.654688,1338,6267,7605
+595,2012-08-17,fall,2012,Augustus,not holiday,friday,workday,clear & partly cloudy,0.2424,1483,5665,7148
+596,2012-08-18,fall,2012,Augustus,not holiday,saturday,restday,clear & partly cloudy,0.618071,2827,5038,7865
+597,2012-08-19,fall,2012,Augustus,not holiday,sunday,restday,mist & cloudy,0.603554,1208,3341,4549
+598,2012-08-20,fall,2012,Augustus,not holiday,monday,workday,mist & cloudy,0.595967,1026,5504,6530
+599,2012-08-21,fall,2012,Augustus,not holiday,tuesday,workday,clear & partly cloudy,0.601025,1081,5925,7006
+600,2012-08-22,fall,2012,Augustus,not holiday,wednesday,workday,clear & partly cloudy,0.621854,1094,6281,7375
+601,2012-08-23,fall,2012,Augustus,not holiday,thursday,workday,clear & partly cloudy,0.637008,1363,6402,7765
+602,2012-08-24,fall,2012,Augustus,not holiday,friday,workday,mist & cloudy,0.6471,1325,6257,7582
+603,2012-08-25,fall,2012,Augustus,not holiday,saturday,restday,mist & cloudy,0.618696,1829,4224,6053
+604,2012-08-26,fall,2012,Augustus,not holiday,sunday,restday,mist & cloudy,0.595996,1483,3772,5255
+605,2012-08-27,fall,2012,Augustus,not holiday,monday,workday,clear & partly cloudy,0.654688,989,5928,6917
+606,2012-08-28,fall,2012,Augustus,not holiday,tuesday,workday,clear & partly cloudy,0.66605,935,6105,7040
+607,2012-08-29,fall,2012,Augustus,not holiday,wednesday,workday,clear & partly cloudy,0.635733,1177,6520,7697
+608,2012-08-30,fall,2012,Augustus,not holiday,thursday,workday,clear & partly cloudy,0.652779,1172,6541,7713
+609,2012-08-31,fall,2012,Augustus,not holiday,friday,workday,clear & partly cloudy,0.6894,1433,5917,7350
+610,2012-09-01,fall,2012,September,not holiday,saturday,restday,mist & cloudy,0.702654,2352,3788,6140
+611,2012-09-02,fall,2012,September,not holiday,sunday,restday,mist & cloudy,0.649,2613,3197,5810
+612,2012-09-03,fall,2012,September,holiday,monday,restday,clear & partly cloudy,0.661629,1965,4069,6034
+613,2012-09-04,fall,2012,September,not holiday,tuesday,workday,clear & partly cloudy,0.686888,867,5997,6864
+614,2012-09-05,fall,2012,September,not holiday,wednesday,workday,clear & partly cloudy,0.708983,832,6280,7112
+615,2012-09-06,fall,2012,September,not holiday,thursday,workday,mist & cloudy,0.655329,611,5592,6203
+616,2012-09-07,fall,2012,September,not holiday,friday,workday,clear & partly cloudy,0.657204,1045,6459,7504
+617,2012-09-08,fall,2012,September,not holiday,saturday,restday,mist & cloudy,0.611121,1557,4419,5976
+618,2012-09-09,fall,2012,September,not holiday,sunday,restday,clear & partly cloudy,0.578925,2570,5657,8227
+619,2012-09-10,fall,2012,September,not holiday,monday,workday,clear & partly cloudy,0.565654,1118,6407,7525
+620,2012-09-11,fall,2012,September,not holiday,tuesday,workday,clear & partly cloudy,0.554292,1070,6697,7767
+621,2012-09-12,fall,2012,September,not holiday,wednesday,workday,clear & partly cloudy,0.570075,1050,6820,7870
+622,2012-09-13,fall,2012,September,not holiday,thursday,workday,clear & partly cloudy,0.579558,1054,6750,7804
+623,2012-09-14,fall,2012,September,not holiday,friday,workday,clear & partly cloudy,0.594083,1379,6630,8009
+624,2012-09-15,fall,2012,September,not holiday,saturday,restday,clear & partly cloudy,0.585867,3160,5554,8714
+625,2012-09-16,fall,2012,September,not holiday,sunday,restday,clear & partly cloudy,0.563125,2166,5167,7333
+626,2012-09-17,fall,2012,September,not holiday,monday,workday,mist & cloudy,0.55305,1022,5847,6869
+627,2012-09-18,fall,2012,September,not holiday,tuesday,workday,mist & cloudy,0.565067,371,3702,4073
+628,2012-09-19,fall,2012,September,not holiday,wednesday,workday,clear & partly cloudy,0.540404,788,6803,7591
+629,2012-09-20,fall,2012,September,not holiday,thursday,workday,clear & partly cloudy,0.532192,939,6781,7720
+630,2012-09-21,fall,2012,September,not holiday,friday,workday,clear & partly cloudy,0.571971,1250,6917,8167
+631,2012-09-22,fall,2012,September,not holiday,saturday,restday,clear & partly cloudy,0.610488,2512,5883,8395
+632,2012-09-23,winter,2012,September,not holiday,sunday,restday,clear & partly cloudy,0.518933,2454,5453,7907
+633,2012-09-24,winter,2012,September,not holiday,monday,workday,clear & partly cloudy,0.502513,1001,6435,7436
+634,2012-09-25,winter,2012,September,not holiday,tuesday,workday,clear & partly cloudy,0.544179,845,6693,7538
+635,2012-09-26,winter,2012,September,not holiday,wednesday,workday,clear & partly cloudy,0.596613,787,6946,7733
+636,2012-09-27,winter,2012,September,not holiday,thursday,workday,mist & cloudy,0.607975,751,6642,7393
+637,2012-09-28,winter,2012,September,not holiday,friday,workday,mist & cloudy,0.585863,1045,6370,7415
+638,2012-09-29,winter,2012,September,not holiday,saturday,restday,clear & partly cloudy,0.530296,2589,5966,8555
+639,2012-09-30,winter,2012,September,not holiday,sunday,restday,clear & partly cloudy,0.517663,2015,4874,6889
+640,2012-10-01,winter,2012,Oktober,not holiday,monday,workday,mist & cloudy,0.512,763,6015,6778
+641,2012-10-02,winter,2012,Oktober,not holiday,tuesday,workday,light snow & light rain,0.542333,315,4324,4639
+642,2012-10-03,winter,2012,Oktober,not holiday,wednesday,workday,mist & cloudy,0.599133,728,6844,7572
+643,2012-10-04,winter,2012,Oktober,not holiday,thursday,workday,mist & cloudy,0.607975,891,6437,7328
+644,2012-10-05,winter,2012,Oktober,not holiday,friday,workday,clear & partly cloudy,0.580187,1516,6640,8156
+645,2012-10-06,winter,2012,Oktober,not holiday,saturday,restday,clear & partly cloudy,0.538521,3031,4934,7965
+646,2012-10-07,winter,2012,Oktober,not holiday,sunday,restday,mist & cloudy,0.419813,781,2729,3510
+647,2012-10-08,winter,2012,Oktober,holiday,monday,restday,mist & cloudy,0.387608,874,4604,5478
+648,2012-10-09,winter,2012,Oktober,not holiday,tuesday,workday,mist & cloudy,0.438112,601,5791,6392
+649,2012-10-10,winter,2012,Oktober,not holiday,wednesday,workday,clear & partly cloudy,0.503142,780,6911,7691
+650,2012-10-11,winter,2012,Oktober,not holiday,thursday,workday,clear & partly cloudy,0.431167,834,6736,7570
+651,2012-10-12,winter,2012,Oktober,not holiday,friday,workday,clear & partly cloudy,0.433071,1060,6222,7282
+652,2012-10-13,winter,2012,Oktober,not holiday,saturday,restday,clear & partly cloudy,0.391396,2252,4857,7109
+653,2012-10-14,winter,2012,Oktober,not holiday,sunday,restday,clear & partly cloudy,0.508204,2080,4559,6639
+654,2012-10-15,winter,2012,Oktober,not holiday,monday,workday,mist & cloudy,0.53915,760,5115,5875
+655,2012-10-16,winter,2012,Oktober,not holiday,tuesday,workday,clear & partly cloudy,0.460846,922,6612,7534
+656,2012-10-17,winter,2012,Oktober,not holiday,wednesday,workday,clear & partly cloudy,0.450108,979,6482,7461
+657,2012-10-18,winter,2012,Oktober,not holiday,thursday,workday,mist & cloudy,0.512625,1008,6501,7509
+658,2012-10-19,winter,2012,Oktober,not holiday,friday,workday,mist & cloudy,0.537896,753,4671,5424
+659,2012-10-20,winter,2012,Oktober,not holiday,saturday,restday,clear & partly cloudy,0.472842,2806,5284,8090
+660,2012-10-21,winter,2012,Oktober,not holiday,sunday,restday,clear & partly cloudy,0.456429,2132,4692,6824
+661,2012-10-22,winter,2012,Oktober,not holiday,monday,workday,clear & partly cloudy,0.482942,830,6228,7058
+662,2012-10-23,winter,2012,Oktober,not holiday,tuesday,workday,clear & partly cloudy,0.530304,841,6625,7466
+663,2012-10-24,winter,2012,Oktober,not holiday,wednesday,workday,clear & partly cloudy,0.558721,795,6898,7693
+664,2012-10-25,winter,2012,Oktober,not holiday,thursday,workday,mist & cloudy,0.529688,875,6484,7359
+665,2012-10-26,winter,2012,Oktober,not holiday,friday,workday,mist & cloudy,0.52275,1182,6262,7444
+666,2012-10-27,winter,2012,Oktober,not holiday,saturday,restday,mist & cloudy,0.515133,2643,5209,7852
+667,2012-10-28,winter,2012,Oktober,not holiday,sunday,restday,mist & cloudy,0.467771,998,3461,4459
+668,2012-10-29,winter,2012,Oktober,not holiday,monday,workday,light snow & light rain,0.4394,2,20,22
+669,2012-10-30,winter,2012,Oktober,not holiday,tuesday,workday,mist & cloudy,0.309909,87,1009,1096
+670,2012-10-31,winter,2012,Oktober,not holiday,wednesday,workday,mist & cloudy,0.3611,419,5147,5566
+671,2012-11-01,winter,2012,November,not holiday,thursday,workday,mist & cloudy,0.369942,466,5520,5986
+672,2012-11-02,winter,2012,November,not holiday,friday,workday,clear & partly cloudy,0.356042,618,5229,5847
+673,2012-11-03,winter,2012,November,not holiday,saturday,restday,mist & cloudy,0.323846,1029,4109,5138
+674,2012-11-04,winter,2012,November,not holiday,sunday,restday,clear & partly cloudy,0.329538,1201,3906,5107
+675,2012-11-05,winter,2012,November,not holiday,monday,workday,clear & partly cloudy,0.308075,378,4881,5259
+676,2012-11-06,winter,2012,November,not holiday,tuesday,workday,clear & partly cloudy,0.281567,466,5220,5686
+677,2012-11-07,winter,2012,November,not holiday,wednesday,workday,mist & cloudy,0.274621,326,4709,5035
+678,2012-11-08,winter,2012,November,not holiday,thursday,workday,clear & partly cloudy,0.341891,340,4975,5315
+679,2012-11-09,winter,2012,November,not holiday,friday,workday,clear & partly cloudy,0.355413,709,5283,5992
+680,2012-11-10,winter,2012,November,not holiday,saturday,restday,clear & partly cloudy,0.393937,2090,4446,6536
+681,2012-11-11,winter,2012,November,not holiday,sunday,restday,clear & partly cloudy,0.421713,2290,4562,6852
+682,2012-11-12,winter,2012,November,holiday,monday,restday,clear & partly cloudy,0.475383,1097,5172,6269
+683,2012-11-13,winter,2012,November,not holiday,tuesday,workday,mist & cloudy,0.323225,327,3767,4094
+684,2012-11-14,winter,2012,November,not holiday,wednesday,workday,clear & partly cloudy,0.281563,373,5122,5495
+685,2012-11-15,winter,2012,November,not holiday,thursday,workday,mist & cloudy,0.324492,320,5125,5445
+686,2012-11-16,winter,2012,November,not holiday,friday,workday,clear & partly cloudy,0.347204,484,5214,5698
+687,2012-11-17,winter,2012,November,not holiday,saturday,restday,clear & partly cloudy,0.326383,1313,4316,5629
+688,2012-11-18,winter,2012,November,not holiday,sunday,restday,clear & partly cloudy,0.337746,922,3747,4669
+689,2012-11-19,winter,2012,November,not holiday,monday,workday,mist & cloudy,0.375621,449,5050,5499
+690,2012-11-20,winter,2012,November,not holiday,tuesday,workday,mist & cloudy,0.380667,534,5100,5634
+691,2012-11-21,winter,2012,November,not holiday,wednesday,workday,clear & partly cloudy,0.364892,615,4531,5146
+692,2012-11-22,winter,2012,November,holiday,thursday,restday,clear & partly cloudy,0.350371,955,1470,2425
+693,2012-11-23,winter,2012,November,not holiday,friday,workday,clear & partly cloudy,0.378779,1603,2307,3910
+694,2012-11-24,winter,2012,November,not holiday,saturday,restday,clear & partly cloudy,0.248742,532,1745,2277
+695,2012-11-25,winter,2012,November,not holiday,sunday,restday,clear & partly cloudy,0.257583,309,2115,2424
+696,2012-11-26,winter,2012,November,not holiday,monday,workday,clear & partly cloudy,0.339004,337,4750,5087
+697,2012-11-27,winter,2012,November,not holiday,tuesday,workday,mist & cloudy,0.281558,123,3836,3959
+698,2012-11-28,winter,2012,November,not holiday,wednesday,workday,clear & partly cloudy,0.289762,198,5062,5260
+699,2012-11-29,winter,2012,November,not holiday,thursday,workday,clear & partly cloudy,0.298422,243,5080,5323
+700,2012-11-30,winter,2012,November,not holiday,friday,workday,clear & partly cloudy,0.323867,362,5306,5668
+701,2012-12-01,winter,2012,Desember,not holiday,saturday,restday,mist & cloudy,0.316904,951,4240,5191
+702,2012-12-02,winter,2012,Desember,not holiday,sunday,restday,mist & cloudy,0.359208,892,3757,4649
+703,2012-12-03,winter,2012,Desember,not holiday,monday,workday,clear & partly cloudy,0.455796,555,5679,6234
+704,2012-12-04,winter,2012,Desember,not holiday,tuesday,workday,clear & partly cloudy,0.469054,551,6055,6606
+705,2012-12-05,winter,2012,Desember,not holiday,wednesday,workday,clear & partly cloudy,0.428012,331,5398,5729
+706,2012-12-06,winter,2012,Desember,not holiday,thursday,workday,clear & partly cloudy,0.258204,340,5035,5375
+707,2012-12-07,winter,2012,Desember,not holiday,friday,workday,mist & cloudy,0.321958,349,4659,5008
+708,2012-12-08,winter,2012,Desember,not holiday,saturday,restday,mist & cloudy,0.389508,1153,4429,5582
+709,2012-12-09,winter,2012,Desember,not holiday,sunday,restday,mist & cloudy,0.390146,441,2787,3228
+710,2012-12-10,winter,2012,Desember,not holiday,monday,workday,mist & cloudy,0.435575,329,4841,5170
+711,2012-12-11,winter,2012,Desember,not holiday,tuesday,workday,mist & cloudy,0.338363,282,5219,5501
+712,2012-12-12,winter,2012,Desember,not holiday,wednesday,workday,mist & cloudy,0.297338,310,5009,5319
+713,2012-12-13,winter,2012,Desember,not holiday,thursday,workday,clear & partly cloudy,0.294188,425,5107,5532
+714,2012-12-14,winter,2012,Desember,not holiday,friday,workday,clear & partly cloudy,0.294192,429,5182,5611
+715,2012-12-15,winter,2012,Desember,not holiday,saturday,restday,clear & partly cloudy,0.338383,767,4280,5047
+716,2012-12-16,winter,2012,Desember,not holiday,sunday,restday,mist & cloudy,0.369938,538,3248,3786
+717,2012-12-17,winter,2012,Desember,not holiday,monday,workday,mist & cloudy,0.4015,212,4373,4585
+718,2012-12-18,winter,2012,Desember,not holiday,tuesday,workday,clear & partly cloudy,0.409708,433,5124,5557
+719,2012-12-19,winter,2012,Desember,not holiday,wednesday,workday,clear & partly cloudy,0.342162,333,4934,5267
+720,2012-12-20,winter,2012,Desember,not holiday,thursday,workday,mist & cloudy,0.335217,314,3814,4128
+721,2012-12-21,springer,2012,Desember,not holiday,friday,workday,mist & cloudy,0.301767,221,3402,3623
+722,2012-12-22,springer,2012,Desember,not holiday,saturday,restday,clear & partly cloudy,0.236113,205,1544,1749
+723,2012-12-23,springer,2012,Desember,not holiday,sunday,restday,clear & partly cloudy,0.259471,408,1379,1787
+724,2012-12-24,springer,2012,Desember,not holiday,monday,workday,mist & cloudy,0.2589,174,746,920
+725,2012-12-25,springer,2012,Desember,holiday,tuesday,restday,mist & cloudy,0.294465,440,573,1013
+726,2012-12-26,springer,2012,Desember,not holiday,wednesday,workday,light snow & light rain,0.220333,9,432,441
+727,2012-12-27,springer,2012,Desember,not holiday,thursday,workday,mist & cloudy,0.226642,247,1867,2114
+728,2012-12-28,springer,2012,Desember,not holiday,friday,workday,mist & cloudy,0.255046,644,2451,3095
+729,2012-12-29,springer,2012,Desember,not holiday,saturday,restday,mist & cloudy,0.2424,159,1182,1341
+730,2012-12-30,springer,2012,Desember,not holiday,sunday,restday,clear & partly cloudy,0.2317,364,1432,1796
+731,2012-12-31,springer,2012,Desember,not holiday,monday,workday,mist & cloudy,0.223487,439,2290,2729
